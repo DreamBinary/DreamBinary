@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamBinary)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamBinary)
+
+
+
  ![DreamBinary's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamBinary&show_icons=true&theme=radical&count_private=true)
 <!--
 **DreamBinary/DreamBinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
